@@ -1,0 +1,3 @@
+Die App „HomeKitCompanion.ipa“ wurde nicht auf dem iPhone „iPhone von Colette Tsague“ installiert, da sie bereits installiert ist.
+Das iPhone „Unbekannt“ kann nicht synchronisiert werden. Ein unbekannter Fehler ist aufgetreten (0x10CC01F8).
+Hgbnfndbnfbb
